@@ -21,7 +21,6 @@ The aim of this repository is to showcase the development work, design approach 
 
 ## Features Implemented
 
-- Environmental storytelling
 - Interactive door systems
 - Trigger-based gameplay events
 - Atmospheric lighting
@@ -46,8 +45,6 @@ The aim of this repository is to showcase the development work, design approach 
 - Unreal Engine Development
 - Blueprint Scripting
 - Game Design
-- User Testing
-- Debugging
 - Problem Solving
 - Project Planning
 - Research and Documentation

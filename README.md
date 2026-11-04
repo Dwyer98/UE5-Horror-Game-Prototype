@@ -94,7 +94,7 @@ The aim of this repository is to showcase the development work, design approach 
 ## Gameplay Demonstration
 
 The following video showcases the current state of the Unreal Engine prototype.
-<video controls src="Video.mp4" title="Title"></video>
+[Download Gameplay Video](videos/prototype-video.mp4)
 
 ---
 
